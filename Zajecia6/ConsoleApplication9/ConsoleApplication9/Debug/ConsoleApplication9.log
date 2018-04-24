@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  ConsoleApplication9.cpp
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(116): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(141): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(164): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(186): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(208): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(224): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(240): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(256): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(271): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(286): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(301): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(599): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(604): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(665): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+j:\grafikakomputerowa\zajecia 6\consoleapplication9\consoleapplication9\consoleapplication9.cpp(667): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  ConsoleApplication9.vcxproj -> J:\grafikaKomputerowa\zajecia 6\ConsoleApplication9\Debug\ConsoleApplication9.exe
